@@ -1,0 +1,23 @@
+{
+  "name": "playwright-sum-check",
+  "version": "1.0.0",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/23f2004343/playwright-sum-check.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/23f2004343/playwright-sum-check/issues"
+  },
+  "homepage": "https://github.com/23f2004343/playwright-sum-check#readme",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.54.1"
+  }
+}
